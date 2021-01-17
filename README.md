@@ -1,7 +1,7 @@
 # Plataforma_Blue
-Esta plataforma visa auxiliar o pesquisador com a organização e o armazenamento dos dados de seus projetos, possibilitando proteção e ordenamento destas informações.
-
 A plataforma "Blue" foi desenvolvida por Gabriel Teixeira (GabrielTeixeira28), Jamilly Barbosa (jamillyvb), Marcio Silva (MarcioDias71).
+
+Resumo: Esta plataforma visa auxiliar o pesquisador com a organização e o armazenamento dos dados de seus projetos, possibilitando proteção e ordenamento destas informações.
 
 <p align="center">
     <img width="200" src="https://ik.imagekit.io/3qljzfqslun/New_Folder/Logo_OKnoUYjWI.svg" title="Blue logo">
